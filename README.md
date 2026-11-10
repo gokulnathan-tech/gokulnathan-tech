@@ -25,7 +25,29 @@
 
 ### 📌 Featured Projects
 
-- **Growth_OS** – A React-based application for visualizing and managing binary tree structures.
+### 🚀 Featured Project – Growth_OS
+
+**Growth_OS** is a web-based application designed to simplify team structure visualization and management.
+
+**Key Features:**
+- 🌳 Dynamic Binary Tree Visualization
+- 👥 Team Structure Management
+- 🔍 Interactive Tree Navigation
+- 📱 Responsive User Interface
+- 🖼️ Export and Download Tree Visualizations
+- 🔥 Firebase Integration
+- 📊 Organized Team Data Visualization
+
+**Tech Stack:**
+- React.js
+- Vite
+- JavaScript
+- Material UI Icons
+- @xyflow/react
+- Dagre
+- Firebase
+- HTML & CSS
+
 
 ### 📫 Connect With Me
 
