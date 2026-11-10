@@ -1,16 +1,39 @@
-## Hi there 👋
 
-<!--
-**gokulnathan-tech/gokulnathan-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Gokulnathan</h1>
+<h3 align="center">Aspiring Software Developer | M.Sc. Computer Science</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  Passionate about technology, software development, and building practical solutions.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+
+- 🎓 M.Sc. Computer Science Student
+- 💻 Interested in Software Development
+- 🌱 Currently learning and improving my development skills
+- 🚀 Built Growth_OS, a team management and tree visualization application
+- 🎯 Goal: To become a skilled software developer
+
+### 🛠️ Technical Skills
+
+- **Languages:** HTML, CSS, JavaScript
+- **Frameworks & Libraries:** React, Vite
+- **Tools:** Git, GitHub, Firebase
+- **Currently Exploring:** Full Stack Development
+
+### 📌 Featured Projects
+
+- **Growth_OS** – A React-based application for visualizing and managing binary tree structures.
+
+### 📫 Connect With Me
+
+- GitHub: [@gokulnathan-tech](https://github.com/gokulnathan-tech)
+
+---
+
+<p align="center">
+  <i>Learning every day. Building step by step. Growing continuously. 🚀</i>
+</p>
+
